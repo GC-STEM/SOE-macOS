@@ -1,1 +1,1 @@
-# STEM Operating Environment
+# STEM Operating Environment on macOS
